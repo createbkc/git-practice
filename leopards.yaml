@@ -5,7 +5,7 @@ manager: Nora
 coach: Oscar
 
 members:
-- Linda
-- William
-- David
-- Olivia
+  - Linda
+  - William
+  - David
+  - Olivia
